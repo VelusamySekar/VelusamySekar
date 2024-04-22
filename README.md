@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning UI/UX Designer and Graphic Designer
 
-- 👯 I’m looking to collaborate on **Frontend & Web design Projects**
+- 👯 I’m looking to collaborate on **UI/UX Designer & Graphic Designer projects**
 
-- 🤝 I’m looking for help with **Web developer projects**
+- 🤝 I’m looking for help with **UI/UX Designer & Graphic Designer projects**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sumithra-rajendran-399832221](https://www.linkedin.com/in/sumithra-rajendran-399832221/)
+- 👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me **sumithrar315@gmail.com**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
